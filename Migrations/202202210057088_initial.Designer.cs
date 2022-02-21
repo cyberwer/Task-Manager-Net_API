@@ -7,13 +7,13 @@ namespace DentalDDS_Api.Migrations
     using System.Resources;
     
     [GeneratedCode("EntityFramework.Migrations", "6.4.4")]
-    public sealed partial class v10 : IMigrationMetadata
+    public sealed partial class initial : IMigrationMetadata
     {
-        private readonly ResourceManager Resources = new ResourceManager(typeof(v10));
+        private readonly ResourceManager Resources = new ResourceManager(typeof(initial));
         
         string IMigrationMetadata.Id
         {
-            get { return "202202172252506_v1.0"; }
+            get { return "202202210057088_initial"; }
         }
         
         string IMigrationMetadata.Source

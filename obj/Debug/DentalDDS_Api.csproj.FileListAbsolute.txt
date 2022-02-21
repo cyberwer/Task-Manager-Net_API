@@ -320,11 +320,10 @@ C:\Projects\DentalDDS-API\DentalDDS-API\bin\System.Web.WebPages.Deployment.xml
 C:\Projects\DentalDDS-API\DentalDDS-API\bin\System.Web.WebPages.Razor.xml
 C:\Projects\DentalDDS-API\DentalDDS-API\bin\Thinktecture.IdentityModel.Core.pdb
 C:\Projects\DentalDDS-API\DentalDDS-API\bin\Antlr3.Runtime.pdb
-C:\Projects\DentalDDS-API\DentalDDS-API\obj\Debug\DentalDDS_Api.csprojAssemblyReference.cache
-C:\Projects\DentalDDS-API\DentalDDS-API\obj\Debug\DentalDDS_Api.Migrations.v10.resources
-C:\Projects\DentalDDS-API\DentalDDS-API\obj\Debug\DentalDDS_Api.Migrations.v11.resources
-C:\Projects\DentalDDS-API\DentalDDS-API\obj\Debug\DentalDDS_Api.csproj.GenerateResource.cache
 C:\Projects\DentalDDS-API\DentalDDS-API\obj\Debug\DentalDDS_Api.csproj.CoreCompileInputs.cache
 C:\Projects\DentalDDS-API\DentalDDS-API\obj\Debug\DentalDDS_Api.csproj.CopyComplete
 C:\Projects\DentalDDS-API\DentalDDS-API\obj\Debug\DevriiApi.dll
 C:\Projects\DentalDDS-API\DentalDDS-API\obj\Debug\DevriiApi.pdb
+C:\Projects\DentalDDS-API\DentalDDS-API\obj\Debug\DentalDDS_Api.csproj.AssemblyReference.cache
+C:\Projects\DentalDDS-API\DentalDDS-API\obj\Debug\DentalDDS_Api.Migrations.initial.resources
+C:\Projects\DentalDDS-API\DentalDDS-API\obj\Debug\DentalDDS_Api.csproj.GenerateResource.cache

@@ -3,7 +3,7 @@
     using System;
     using System.Data.Entity.Migrations;
     
-    public partial class v10 : DbMigration
+    public partial class initial : DbMigration
     {
         public override void Up()
         {
@@ -61,10 +61,11 @@
                 c => new
                     {
                         TasksID = c.Long(nullable: false, identity: true),
-                        TaskName = c.Long(nullable: false),
-                        TaskDetail = c.Long(nullable: false),
+                        TaskName = c.String(nullable: false, maxLength: 50),
+                        TaskDetail = c.String(nullable: false, maxLength: 200),
                         TaskDateTime = c.DateTime(nullable: false, precision: 7, storeType: "datetime2"),
                         Created = c.DateTime(nullable: false, precision: 7, storeType: "datetime2"),
+                        UserName = c.String(nullable: false, maxLength: 20),
                         UserProfileID = c.String(),
                     })
                 .PrimaryKey(t => t.TasksID);
